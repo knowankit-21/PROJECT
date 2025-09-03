@@ -9,6 +9,9 @@
 # 6.Under root
 # 7.percentage
 # 8.Reciprocal
+# 9.Cube
+# 10.BMI calculate 
+
 
 import math
 from fractions import Fraction
